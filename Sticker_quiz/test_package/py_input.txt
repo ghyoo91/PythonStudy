@@ -1,0 +1,5 @@
+모르겠음
+
+a = [['B','배경'], ['F','얼굴인식'],['D','왜곡'],['M','음악'],['W','얼굴바꾸기'],['K','얼굴스킨'],['L','스티커전용필터'],['E','카메라이펙트'],['P','프레임'],['R','화상축소'],['O','3D스티커']]
+
+b = [['JSON','JavaScript Object Notation'], ['HAR','HTTP Archive'],['AJAX','Asynchronous Javascript and XML']]
